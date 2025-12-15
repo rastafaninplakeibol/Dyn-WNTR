@@ -60,6 +60,7 @@ We welcome contributions to improve and expand the functionality of **Dyn-WNTR**
 **Dyn-WNTR** is open-source and distributed under the [MIT License](LICENSE). 
 
 if you use this work in your research, cite us as:
+```latex
 @inproceedings{dyn_wntr,
   title={Dyn-WNTR: Dynamic Network Adaptive Extension for Hydraulic Simulations with WNTR},
   author={Locatelli, Pierluigi and Cattai, Tiziana and Palumbo, Simone and Cuomo, Francesca},
@@ -67,3 +68,4 @@ if you use this work in your research, cite us as:
   year={2025},
   organization={IEEE}
 }
+```
